@@ -9,3 +9,9 @@ If you have a managing scenario to add, please edit the `scenarios.txt` file, ap
 ## Running manager-situations
 
 From the command line, run `incoming-scenario.rb` to receive a new scenario. You and your managering pairing partner will talk about what you would do immediately in the situation, then go over the company-specific, legal, and moral implications of the scenario.
+
+If you want to run through multiple scenarios, add a command-line argument for the number:
+
+`incoming-scenario.rb 5`
+
+This example will run through 5 random scenarios. 🥳
